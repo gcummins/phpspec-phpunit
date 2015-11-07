@@ -22,8 +22,10 @@ Use this project to quickly boostrap a new PHP project.
 
 `composer install`
 
-###Put your code in public/index.php
+###Add your code
+
+Place your code in `public/index.php`. You will configure your webserver to find your code here.
 
 ###Configure your webserver
 
-Set the 'public' directory as your webserver root, then view the application in a browser
+Set the 'public' directory as your webserver root, then view the application in a browser.
